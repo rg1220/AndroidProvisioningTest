@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeviceOwnerCheck</string>
+    <string name="activate_device_admin">Activate Device Admin</string>
+    <string name="deactivate_device_admin">Deactivate Device Admin</string>
+    <string name="device_owner_enable_profile">Device Owner - Enable Profile</string>
+    <string name="title_activity_provisioning_complete">ProvisioningCompleteActivity</string>
+    <string name="provisioning_complete">Provisioning Complete!</string>
+
+</resources>
